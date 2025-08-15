@@ -3,7 +3,7 @@
 <h3 align="center">📊 Aspiring Data Scientist | 🎓 ECE Graduate | 🧠 Ex-UPSC Aspirant | 🥋 National Karate Champion</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=3AB1D5&width=435&lines=Creative+Thinker;Data+Science+Enthusiast;Python+%7C+SQL+%7C+Tableau;Seeking+Tech+Opportunities+Globally" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=3AB1D5&width=435&lines=Creative+Thinker;Data+Science+Enthusiast;Python+%7C+SQL+%7C+Tableau+%7c+JAVA;Seeking+Tech+Opportunities+Globally" alt="Typing SVG" />
 </p>
 
 ---
